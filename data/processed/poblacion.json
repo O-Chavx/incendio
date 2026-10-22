@@ -1,0 +1,21 @@
+{
+  "a_5km": 1726,
+  "a_1km": 261,
+  "distritos_en_5km": [
+    {
+      "NOMBDIST": "CCAPI",
+      "NOMBPROV": "PARURO",
+      "poblacion_2020": 3142
+    },
+    {
+      "NOMBDIST": "TAMBOBAMBA",
+      "NOMBPROV": "COTABAMBAS",
+      "poblacion_2020": 10915
+    },
+    {
+      "NOMBDIST": "HUANOQUITE",
+      "NOMBPROV": "PARURO",
+      "poblacion_2020": 5243
+    }
+  ]
+}

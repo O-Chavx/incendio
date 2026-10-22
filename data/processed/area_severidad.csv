@@ -1,0 +1,6 @@
+clase,dnbr_desde,dnbr_hasta,hectareas
+No quemado,-1.0,0.1,4006.8
+Baja,0.1,0.27,481.2
+Moderada-baja,0.27,0.44,345.3
+Moderada-alta,0.44,0.66,95.2
+Alta,0.66,2.0,1.5

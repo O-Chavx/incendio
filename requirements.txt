@@ -1,0 +1,15 @@
+rasterio
+geopandas
+rasterstats
+pystac-client
+planetary-computer
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+requests
+streamlit
+streamlit-folium
+folium
+plotly
